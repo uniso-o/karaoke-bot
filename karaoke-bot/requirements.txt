@@ -1,0 +1,9 @@
+aiogram==3.3.0
+torch==2.1.2
+torchaudio==2.1.2
+demucs==4.0.1
+transformers==4.40.0
+soundfile==0.12.1
+pysubs2==1.6.1
+python-dotenv==1.0.0
+boto3==1.34.0
